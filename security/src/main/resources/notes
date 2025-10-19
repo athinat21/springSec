@@ -1,0 +1,23 @@
+filet e sigurise vendosen zakonisjt ne paketa configuration dhe utils
+
+Spring Security
+Eshte nje framework i sigurise per aplikacionet Java qe ndihmon ne
+Autentikim(login
+Eshte procesi i verifikimit te identitetit te user-t Zakonisht permes username dhe password
+
+
+Autorizim(a ke te drejte te besh nje veprim te caktuar
+Pasi perdoruesi eshte identifikuar , kontrollohet nese ka lje te aksesoje nje burim te caktuar
+
+CSRF-> Cross Site Request Forgery eshte nje lloj sulmi ku nje faqe e jashtme
+perpiqet te bej veprime ne emrin tend pa ljen tende
+
+Session eshte nje memorie qe ruhet ne server per nje perdories kur ai hyn ne sistem
+Cookies jane te dhena te vogla qe ruhen ne pc perdoren per te ruajtur login
+preferencat tona
+
+
+JWT ->Json web token -eshte nje karte identiteti dixhitale qe perdoret
+per te treguar qe nje perdorues eshte ber logged in
+
+per te ruajtur dhe derguar info ne menyre te sigurt
